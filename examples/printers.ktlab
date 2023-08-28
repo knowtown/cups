@@ -8,7 +8,7 @@ PrinterId 4
 Info 
 Location 
 #MakeModel Canon imageRunner C5800 - CUPS+Gutenprint v5.3.4 Simplified
-MakeModel Generic PostScript Printer
+MakeModel Generic IPP Everywhere Printer
 DeviceURI socket://192.168.254.21
 State Idle
 StateTime 1692202670
